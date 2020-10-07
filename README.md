@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![DeepSource](https://static.deepsource.io/deepsource-badge-dark-mini.svg)
 
->> PythonPrograms Is A Collection Of Python Scripts.
+> PythonPrograms Is A Collection Of Python Scripts.
 
 I Create A New Python Program Daily
 
