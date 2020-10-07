@@ -14,7 +14,7 @@ Hope, My Python Programs Gets You Inspired At Your Work.
 |Num.| Category                                          | Description                           |                                  
 |----| :-----------------------------------------------: | :-----------------------------:       |                                  
 |0001| [Calculator](https://github.com/Richy-Coder/PythonPrograms/tree/main/Calculator)          |`calculator`                      
-|0002| [Calculator](https://github.com/Richy-Coder/PythonPrograms/tree/main/Port%20Scanner)      |`port-scanner` 
+|0002| [Port Scanner](https://github.com/Richy-Coder/PythonPrograms/tree/main/Port%20Scanner)      |`port-scanner` 
 
 
 ## Credits
